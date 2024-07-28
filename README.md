@@ -12,7 +12,7 @@ proactive approach, strong analytical skills, and a collaborative mindset to you
 - 💬 Ask me about [Gmail](nguyenvanhon732k3@gmail.com)
 - 😄 Nickname : Dex Kates
 
- 👉 The following are some of my projects👈
+ 👉**The following are some of my projects**👈
  
  ✍️[Time Series Forecasting for Machine Learning Project](https://github.com/Honpg/Machine-Learning)
  
