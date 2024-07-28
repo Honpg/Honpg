@@ -1,5 +1,5 @@
 # Welcome to My Profile 👋
-<img src="https://github.com/Honpg/Honpg/blob/main/avatar_love.jpg" alt="Profile Picture" width="150"/>
+<img src="https://github.com/Honpg/Honpg/blob/main/avatar_love.jpg" alt="Profile Picture" width="120"/>
 
 
 🙌 Enthusiastic AI student seeking an internship at FPT Software to apply and develop my foundational
