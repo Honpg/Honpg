@@ -1,4 +1,6 @@
 # Welcome to My Profile 👋
+![Profile Picture](https://raw.githubusercontent.com/Honpg/Honpg/main/ImagesBackground.jpg)
+
 🙌 Enthusiastic AI student seeking an internship at FPT Software to apply and develop my foundational
 knowledge in AI. Eager to learn from experienced professionals and contribute to innovative projects.
 I am passionate about artificial intelligence and its potential to solve real-world problems. I am
