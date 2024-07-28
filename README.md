@@ -9,7 +9,6 @@ about the opportunity to gain practical experience in a dynamic environment. I a
 proactive approach, strong analytical skills, and a collaborative mindset to your team.
 
 - 🔭 I’m currently learning  Data Enginear
-- 💬 Ask me about [Gmail](nguyenvanhon732k3@gmail.com)
 - 😄 Nickname : Dex Kates
 
  👉**The following are some of my projects**👈
@@ -22,6 +21,8 @@ proactive approach, strong analytical skills, and a collaborative mindset to you
 
  ![GitHub followers](https://img.shields.io/github/followers/Honpg?label=Follow&style=social)
  [![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?style=flat-square)](https://www.facebook.com/Minh1a1eo.org/)
+ [![Gmail Badge](https://img.shields.io/badge/Email-me-red?logo=gmail&logoColor=white&style=flat)](mailto:nguyenvanhon732k3@gmail.com?subject=Subject%20Here&body=Body%20Text%20Here)
+
 
 
   
