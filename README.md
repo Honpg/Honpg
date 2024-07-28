@@ -4,9 +4,8 @@
 
 🙌 Enthusiastic AI student seeking an internship at FPT Software to apply and develop my foundational
 knowledge in AI. Eager to learn from experienced professionals and contribute to innovative projects.
-I am passionate about artificial intelligence and its potential to solve real-world problems. I am
-committed to continuous learning and staying updated with the latest advancements in AI. Excited
-about the opportunity to gain practical experience in a dynamic environment, I am ready to bring a
+I am passionate about artificial intelligence and its potential to solve real-world problems.Excited
+about the opportunity to gain practical experience in a dynamic environment. I am ready to bring a
 proactive approach, strong analytical skills, and a collaborative mindset to your team.
 
 - 🔭 I’m currently learning  Data Enginear
