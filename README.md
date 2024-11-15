@@ -8,7 +8,7 @@ I am passionate about artificial intelligence and its potential to solve real-wo
 about the opportunity to gain practical experience in a dynamic environment. I am ready to bring a
 proactive approach, strong analytical skills, and a collaborative mindset to your team.
 
-- 🔭 I’m currently learning  Data Enginear
+- 🔭 I’m currently learning  AI Enginear
 - 😄 Nickname : Dex Kates
 
  👉**The following are some of my projects**👈
