@@ -19,6 +19,10 @@ proactive approach, strong analytical skills, and a collaborative mindset to you
 
  ✍️[Web Search Engine for Books](https://github.com/Honpg/Web-search-engineer)
 
+ ✍️[Ocean AI– AI Meeting Intelligence Platform](https://github.com/Honpg/EXE201)
+
+ ✍️[Deep Reinforcement Learning HVAC Control](https://github.com/Honpg/Deep_Reinforcement_Learning_HVAC_Control)
+
  ![GitHub followers](https://img.shields.io/github/followers/Honpg?label=Follow&style=social)
  [![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?style=flat-square)](https://www.facebook.com/Minh1a1eo.org/)
  [![Gmail Badge](https://img.shields.io/badge/Email-me-red?logo=gmail&logoColor=white&style=flat)](mailto:nguyenvanhon732k3@gmail.com?subject=Subject%20Here&body=Body%20Text%20Here)
