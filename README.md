@@ -18,6 +18,8 @@ proactive approach, strong analytical skills, and a collaborative mindset to you
  ✍️[Time Series Forecasting for Deep Learning Project](https://github.com/Honpg/Deep-Learing)
 
  ✍️[Web Search Engine for Books](https://github.com/Honpg/Web-search-engineer)
+ 
+ ✍️[Potato Leaf Disease Classifier](https://github.com/Honpg/leaf)
 
  ✍️[Ocean AI– AI Meeting Intelligence Platform](https://github.com/Honpg/EXE201)
 
