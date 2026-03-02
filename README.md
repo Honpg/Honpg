@@ -21,6 +21,8 @@ proactive approach, strong analytical skills, and a collaborative mindset to you
  
  ✍️[Potato Leaf Disease Classifier](https://github.com/Honpg/leaf)
 
+ ✍️[Deep Learning-Based Speaker Identification](https://github.com/Honpg/Speaker-Identification)
+
  ✍️[Ocean AI– AI Meeting Intelligence Platform](https://github.com/Honpg/EXE201)
 
  ✍️[Deep Reinforcement Learning HVAC Control](https://github.com/Honpg/Deep_Reinforcement_Learning_HVAC_Control)
