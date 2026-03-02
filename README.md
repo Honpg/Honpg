@@ -2,7 +2,7 @@
 <img src="https://github.com/Honpg/Honpg/blob/main/avatar_love.jpg" alt="Profile Picture" width="120"/>
 
 
-🙌 Enthusiastic AI student seeking an internship at FPT Software to apply and develop my foundational
+🙌 Enthusiastic AI Engineer to apply and develop my foundational
 knowledge in AI. Eager to learn from experienced professionals and contribute to innovative projects.
 I am passionate about artificial intelligence and its potential to solve real-world problems.Excited
 about the opportunity to gain practical experience in a dynamic environment. I am ready to bring a
